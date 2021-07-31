@@ -2,6 +2,7 @@
 
 **You can view the TruckersMP rules in other languages [here](https://truckersmp.com/kb/704)!**  
 
+- 2021/07/30 - Updated [privacy policy](https://truckersmp.com/policy). Reworked rule §2, §2.6. Added double/triple trailer restrictions to §5.1. Reworded rule §2.4, §5.2, §5.3 ([full changelog](https://truckersmp.com/kb/1303))  
 - 2021/05/28 - Reworked all rules under §1. Added rule §4.5. Updated §2 §2.6, §2.8, §3, §4, §4.1, §4.2, §4.3, §5.1, §5.4, §5.7 ([full changelog](https://truckersmp.com/kb/1303))    
 - 2021/02/14 - Updated rule §1.2, §1.4, §1.5, §2 §2.4, §2.6, §2.9 
 - 2021/01/22 - Updated [privacy policy](https://truckersmp.com/policy) changelog is available at the bottom of the privacy policy. Updated rule §4.2, §4.3, §4.4
@@ -103,7 +104,7 @@ If, for any reason, there are ambiguous terms in the rules, or terms which could
  ---
 ## §2 - Game only rules
 
-Rules marked with an asterisk (*) do not apply on Arcade servers with 'Arc' or 'Arcade' in their title and inside of No Collision Zones. Traffic laws and road signage must be obeyed. This means European road laws and signage must be followed in ETS2 and American road laws and signage must be followed in ATS. Failure to adhere to the respective road laws and signage could result in a punishment. Traffic lights and stop signs can be ignored if no other users are in the immediate area. Speeding, while allowed, is not recommended. Speeding can lead to accidents and can factor in a punishment decision. Baiting other players into accidents will not be tolerated and is punishable.
+Rules marked with an asterisk (*) do not apply on Arcade servers and inside of No Collision Zones. Traffic laws and road signage must be obeyed. This means European road laws and signage must be followed in ETS2 and American road laws and signage must be followed in ATS. Failure to adhere to the respective road laws and signage could result in a punishment. Traffic lights and stop signs can be ignored if no other users are in the immediate area. Speeding, while allowed, is not recommended. Speeding can lead to accidents and can factor in a punishment decision. Baiting other players into accidents will not be tolerated and is punishable. Areas with 25+ players are considered highly populated.  
 
 **§2.1 - Hacking/Bug/Feature abusing - PERMANENT BAN**
 
@@ -119,7 +120,7 @@ Restricting a user's travel path, blocking entrances to highways or other entry 
 
 **§2.4 - Incorrect Way / Inappropriate Overtaking***
 
-Driving the incorrect way down a road. Overtaking or undertaking another player in an area of extremely low FPS and/or in areas with large amounts of traffic and/or resulting in an accident or anything similar. This also includes overtaking or undertaking on any one-lane in each direction road where there is excessive traffic such as a traffic jam. Areas with a large amount of traffic are considered to be 25+ players.
+Driving the incorrect way down a road. Overtaking or undertaking another player in an area of extremely low FPS and/or in highly populated areas and/or resulting in an accident or anything similar. This also includes overtaking or undertaking on any one-lane in each direction road where there is excessive traffic such as a traffic jam.  
 
 **§2.5 - Reckless Driving***
 
@@ -127,7 +128,7 @@ Driving in such a way that is considered unsafe and that puts other players in d
 
 **§2.6 - Inappropriate Convoy Management / Car Abuse***
 
-Convoy pilots are not permitted to slow down, block, control traffic and act as a staff member or otherwise abuse the pilot scheme paint job. You are not permitted to take a convoy into a highly populated area intentionally. This can include (but is not limited to) Calais, Duisburg, Calais-Duisburg road or surrounding areas.
+Convoys are expected to follow all TruckersMP rules without altering the normal traffic flow. Convoy pilots are not permitted to slow down, block, control traffic and act as a staff member or otherwise abuse the pilot scheme paint job. It's not permitted to organise a convoy in the following areas when highly populated: Kirkenes quarry (ProMods map), the Duisburg to Calais road, and in the cities of Calais and Duisburg. More than 5 players driving together is classed as a convoy.  
 
 **§2.7 - Event Servers**
 
@@ -225,17 +226,19 @@ The Community Moderation Management reserve the right to apply more severe restr
 
 * **Too many trailers** - Using a modified trailer combination with more than 3 parts for ETS2 or 5 parts for ATS will cause the server to kick you, regardless of location on the map.
 
+* **Traffic restrictions** - Using double or triple trailers close to the Kirkenes quarry (ProMods map).  
+
 * **Negative cargo mass** - Using a trailer with a mass lower than 0.
 
 * **Mixing vehicle items** - Using car parts on a truck, truck parts on a trailer or car parts on a trailer, and vice versa for each case.
 
 **§5.2 - Staff and TruckersMP**
 
-Staff reserve the right to kick or ban you from the TruckersMP servers at any point if needed. Project Management has the right to exempt individuals from rules under special circumstances. We ask you to create a ban appeal if you are banned instead of messaging any member of the team privately. The servers, mod and staff are provided free of charge for everyone and in that sense, everyone is a guest on the servers and it is a privilege that can be removed at any time. No form of persecution or offence toward any other members or staff team members will be permitted. We reserve the right to remove your right to access the servers at any time and at our discretion. Please note that the creators of the TruckersMP mod are not linked to SCS in any way, shape, or form. TruckersMP staff can be exempted from these rules if deemed necessary for their duties.
+Staff reserve the right to kick or ban you from the TruckersMP servers at any point if needed. Project Management has the right to exempt individuals from rules under special circumstances. The servers, mod and staff are provided free of charge for everyone and in that sense, everyone is a guest on the servers and it is a privilege that can be removed at any time. No form of persecution or offence toward any other members or staff team members will be permitted. We reserve the right to remove your right to access the servers at any time and at our discretion. Please note that the creators of the TruckersMP mod are not linked to SCS in any way, shape, or form. TruckersMP staff can be exempted from these rules if deemed necessary for their duties.
 
 **§5.3 - Appealing and filing a complaint**
 
-If you have been banned, you have the right to appeal the ban at <https://truckersmp.com/appeals> - If you feel that your ban appeal is not handled correctly or that you want to file a complaint against a staff member, use our feedback system. Prior to contacting feedback, your ban appeal must be Accepted, Modified or Declined. This feedback system is your last option. Any decision made by high ranked staff members will be final and cannot be appealed in another way. Any abuse of the feedback system can result in a ban from its use. Evidence for bans is required to be available for the duration of the ban plus thirty days. It is not possible to contact any member of the TruckersMP staff about bans that expired over fourteen days ago.
+If you have been banned, you have the right to appeal the ban via the [appeal system](https://truckersmp.com/appeals). If you feel that your ban appeal is not handled correctly or that you want to file a complaint against a staff member, use our feedback system. Prior to contacting feedback, your ban appeal must be Accepted, Modified or Declined. The [feedback system](https://truckersmp.com/feedback) is your last option. Any decision made by high ranked staff members will be final and cannot be appealed in another way. Any abuse of the feedback system can result in a ban from its use. Evidence for bans is required to be available for the duration of the ban plus thirty days. It is not possible to contact any member of the TruckersMP staff about bans that expired over fourteen days ago. Complaints cannot be addressed privately with Staff members. You are required to use the appropriate system to fill in a complaint or appeal a punishment.  
 
 **§5.4 - TruckersMP assets and logo**
 
