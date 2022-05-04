@@ -2,6 +2,7 @@
 
 **You can view the TruckersMP rules in other languages [here](https://truckersmp.com/kb/704)!**  
 
+- 2022/05/04 - Reworked §2.2. Updated §1.4, §2.4, §2.8, §5.3. ([full changelog](https://truckersmp.com/kb/1303))  
 - 2021/07/30 - Updated [privacy policy](https://truckersmp.com/policy). Reworked rule §2, §2.6. Added double/triple trailer restrictions to §5.1. Reworded rule §2.4, §5.2, §5.3 ([full changelog](https://truckersmp.com/kb/1303))  
 - 2021/05/28 - Reworked all rules under §1. Added rule §4.5. Updated §2 §2.6, §2.8, §3, §4, §4.1, §4.2, §4.3, §5.1, §5.4, §5.7 ([full changelog](https://truckersmp.com/kb/1303))    
 - 2021/02/14 - Updated rule §1.2, §1.4, §1.5, §2 §2.4, §2.6, §2.9 
@@ -57,12 +58,12 @@ Any breaches of the below rules might result in a 30 day ban from our report sys
 - The evidence you provide us must be available for the length of the ban applied, plus thirty days. Evidence for permanent bans must be available forever.
 - Reports for reasons mentioned under §2 must have video evidence. Evidence exceeding 2 minutes in length must have a timestamp attached in the report.  
 - Evidence submitted in the report should not be modified (cropped, retouched or blurred) in a way that affects the context of the violation. Videos can only be cropped time-wise.
-- Evidence submitted may only be uploaded to websites that offer an on-site video player. Evidence that requires downloading files will not be accepted.
+- Evidence submitted may only be uploaded to websites that offer an on-site video player. Evidence that requires downloading files or authorization will not be accepted.
 - Evidence of inappropriate use of language, impersonation of any kind and inappropriate content, in the text chat must show the full chat open.
 - Evidence containing insults or otherwise offensive marks from the reporter won't be accepted and the reporter might be banned for inappropriate use of language, depending on the severity.
 - Ban Evading violations cannot be reported to the TruckersMP Team, such violations are handled through internal processes.
-- You can not report players with evidence that has not been recorded in-game by yourself.
-- Spamming our report system with useless reports, reports using continuous freecam (Cam 0) to record, or anything similar.
+- You can not report players with evidence that has not been taken in-game by yourself.
+- Spamming our report system with useless reports, reports using continuous freecam (Cam 0) to record, or anything similar is not permitted.
 - Asking staff to handle your report with priority is not permitted.
 - It is not allowed to report the same user again if your report against them was declined. The complaint must be addressed to the Game Moderation Management through the [feedback system](https://truckersmp.com/feedback).
 - Reporting TruckersMP staff members must be done through the [feedback system](https://truckersmp.com/feedback).
@@ -110,9 +111,9 @@ Rules marked with an asterisk (*) do not apply on Arcade servers and inside of N
 
 Using any kind of tool to change gameplay, including but not limited to using the in-game console, trainers or cheat engine in order to bypass the speed limiter, to jump hack, no collision hack or anything similar. Bypassing the server-sided auto kick system via save editing. Misusing features such as ghost mode to cause damage to others while connecting to the servers.
 
-**§2.2 - Ramming***
+**§2.2 - Collisions***
 
-Causing a collision with another player intentionally or due to negligence. Attempting to cause a collision by steering towards their vehicle.
+Causing or attempting to cause a collision with another player intentionally or due to negligence.
 
 **§2.3 - Blocking***
 
@@ -120,7 +121,7 @@ Restricting a user's travel path, blocking entrances to highways or other entry 
 
 **§2.4 - Incorrect Way / Inappropriate Overtaking***
 
-Driving the incorrect way down a road. Overtaking or undertaking another player in an area of extremely low FPS and/or in highly populated areas and/or resulting in an accident or anything similar. This also includes overtaking or undertaking on any one-lane in each direction road where there is excessive traffic such as a traffic jam.  
+Driving the incorrect way down a road. Overtaking or undertaking another player in an area of extremely low FPS and/or in highly populated areas and/or resulting in an accident or the endangerment of other players. This also includes overtaking or undertaking on any one-lane in each direction road where there is excessive traffic such as a traffic jam.  
 
 **§2.5 - Reckless Driving***
 
@@ -142,9 +143,9 @@ Temporary rules for events can be found [here](https://forum.truckersmp.com/inde
 
 - The first 3 bans are issued at the staff member’s discretion.
 - The 4th ban is thirty days.
-- The 5th ban is permanent. 
+- The 5th ban and consecutive bans are ninety days.
 
-Any bans older than 12 months at the time of the new ban being issued are ignored, this 12 month period is the ban cooling-off period. Ban extensions are based on the active (less than 12 months old) bans at the time of expiration and will not be altered if a ban goes over the 12 month period while the ban is active. If you have at least two active history bans in your ban history, Game Moderators will extend your next ban to a permanent ban, regardless of how many bans you have had in the last year. Bans that are extended due to it being your 4th or 5th ban cannot be removed, they are strictly thirty days and permanent. 
+Any bans older than 12 months at the time of the new ban being issued are ignored, this 12 month period is the ban cooling-off period. Ban extensions are based on the active (less than 12 months old) bans at the time of expiration and will not be altered if a ban goes over the 12 month period while the ban is active. If you have at least two active history bans in your ban history, staff will extend your next ban to a ninety days ban, regardless of how many bans you have had in the last year. Bans that are extended due to history cannot be removed, they are strictly thirty days and ninety days.
 
 **§2.9 - Bans issued by the Game Moderation Management**
 
@@ -213,7 +214,7 @@ The Community Moderation Management reserve the right to apply more severe restr
 
 * **Truck with caravan** - Attaching the caravan to your truck.
 
-* **Headlights** - Headlights must always be on between the hours of 21:00 (9 PM) - 05:00 (5 AM).
+* **Headlights** - Headlights must always be on between the hours of ATS: 20:00 (8 PM) - 7:00 (7 AM) | ETS2: 20:00 (8 PM) - 06:00 (6 AM).
 
 * **Unsupported accessories** - Using police accessories or any other unsupported items (Special Cargo DLC trailers for ETS2 and ATS).
 
@@ -238,7 +239,7 @@ Staff reserve the right to kick or ban you from the TruckersMP servers at any po
 
 **§5.3 - Appealing and filing a complaint**
 
-If you have been banned, you have the right to appeal the ban via the [appeal system](https://truckersmp.com/appeals). If you feel that your ban appeal is not handled correctly or that you want to file a complaint against a staff member, use our feedback system. Prior to contacting feedback, your ban appeal must be Accepted, Modified or Declined. The [feedback system](https://truckersmp.com/feedback) is your last option. Any decision made by high ranked staff members will be final and cannot be appealed in another way. Any abuse of the feedback system can result in a ban from its use. Evidence for bans is required to be available for the duration of the ban plus thirty days. It is not possible to contact any member of the TruckersMP staff about bans that expired over fourteen days ago. Complaints cannot be addressed privately with Staff members. You are required to use the appropriate system to fill in a complaint or appeal a punishment.  
+If you have been banned, you have the right to appeal the ban via the [appeal system](https://truckersmp.com/appeals). If you feel that your ban appeal is not handled correctly or that you want to file a complaint against a staff member, use our feedback system. Prior to contacting feedback, your ban appeal must be Accepted, Modified or Declined. The [feedback system](https://truckersmp.com/feedback) is your last option. Any decision made by high ranked staff members will be final and cannot be appealed in another way. Any abuse of the feedback system can result in a ban from its use. Evidence for bans is required to be available for the duration of the ban plus thirty days. It is not possible to contact any member of the TruckersMP staff about bans that expired over fourteen days ago or a report that was handled over fourteen days ago. Complaints cannot be addressed privately with Staff members. You are required to use the appropriate system to fill in a complaint or appeal a punishment.  
 
 **§5.4 - TruckersMP assets and logo**
 
