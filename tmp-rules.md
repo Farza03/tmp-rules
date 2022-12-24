@@ -2,9 +2,10 @@
 
 **You can view the TruckersMP rules in other languages [here](https://truckersmp.com/kb/704)!**  
 
-- 2022/05/04 - Reworked §2.2. Updated §1.4, §2.4, §2.8, §5.3. ([full changelog](https://truckersmp.com/kb/1303))  
-- 2021/07/30 - Updated [privacy policy](https://truckersmp.com/policy). Reworked rule §2, §2.6. Added double/triple trailer restrictions to §5.1. Reworded rule §2.4, §5.2, §5.3 ([full changelog](https://truckersmp.com/kb/1303))  
-- 2021/05/28 - Reworked all rules under §1. Added rule §4.5. Updated §2 §2.6, §2.8, §3, §4, §4.1, §4.2, §4.3, §5.1, §5.4, §5.7 ([full changelog](https://truckersmp.com/kb/1303))    
+- 2022/11/24 - Updated §1.4, §2, §2.5, §2.7, and §5.1. ([check the changelog here](https://truckersmp.com/kb/1303))  
+- 2022/05/04 - Reworked §2.2. Updated §1.4, §2.4, §2.8, §5.3.
+- 2021/07/30 - Updated [privacy policy](https://truckersmp.com/policy). Reworked rule §2, §2.6. Added double/triple trailer restrictions to §5.1. Reworded rule §2.4, §5.2, §5.3.
+- 2021/05/28 - Reworked all rules under §1. Added rule §4.5. Updated §2 §2.6, §2.8, §3, §4, §4.1, §4.2, §4.3, §5.1, §5.4, §5.7.
 - 2021/02/14 - Updated rule §1.2, §1.4, §1.5, §2 §2.4, §2.6, §2.9 
 - 2021/01/22 - Updated [privacy policy](https://truckersmp.com/policy) changelog is available at the bottom of the privacy policy. Updated rule §4.2, §4.3, §4.4
 - 2021/01/11 - Updated rule §2.9
@@ -54,16 +55,16 @@ Using any of the report or communication systems provided on TruckersMP services
 
 Any breaches of the below rules might result in a 30 day ban from our report system for a first offense, and a permanent ban for a second offense, and will lead to your report getting rejected.  
 
-- The evidence you provide cannot have been recorded more than 14 days ago.
+- Reports must be filed no later than 14 days after an incident has occurred.
 - The evidence you provide us must be available for the length of the ban applied, plus thirty days. Evidence for permanent bans must be available forever.
 - Reports for reasons mentioned under §2 must have video evidence. Evidence exceeding 2 minutes in length must have a timestamp attached in the report.  
 - Evidence submitted in the report should not be modified (cropped, retouched or blurred) in a way that affects the context of the violation. Videos can only be cropped time-wise.
 - Evidence submitted may only be uploaded to websites that offer an on-site video player. Evidence that requires downloading files or authorization will not be accepted.
-- Evidence of inappropriate use of language, impersonation of any kind and inappropriate content, in the text chat must show the full chat open.
+- Evidence of inappropriate use of language, impersonation of any kind and inappropriate content, in the text chat must show the full chat open and unedited.
 - Evidence containing insults or otherwise offensive marks from the reporter won't be accepted and the reporter might be banned for inappropriate use of language, depending on the severity.
 - Ban Evading violations cannot be reported to the TruckersMP Team, such violations are handled through internal processes.
 - You can not report players with evidence that has not been taken in-game by yourself.
-- Spamming our report system with useless reports, reports using continuous freecam (Cam 0) to record, or anything similar is not permitted.
+- Spamming our report system with useless reports, reports using only continuous freecam (Cam 0) to record, or anything similar is not permitted.
 - Asking staff to handle your report with priority is not permitted.
 - It is not allowed to report the same user again if your report against them was declined. The complaint must be addressed to the Game Moderation Management through the [feedback system](https://truckersmp.com/feedback).
 - Reporting TruckersMP staff members must be done through the [feedback system](https://truckersmp.com/feedback).
@@ -105,7 +106,7 @@ If, for any reason, there are ambiguous terms in the rules, or terms which could
  ---
 ## §2 - Game only rules
 
-Rules marked with an asterisk (*) do not apply on Arcade servers and inside of No Collision Zones. Traffic laws and road signage must be obeyed. This means European road laws and signage must be followed in ETS2 and American road laws and signage must be followed in ATS. Failure to adhere to the respective road laws and signage could result in a punishment. Traffic lights and stop signs can be ignored if no other users are in the immediate area. Speeding, while allowed, is not recommended. Speeding can lead to accidents and can factor in a punishment decision. Baiting other players into accidents will not be tolerated and is punishable. Areas with 25+ players are considered highly populated.  
+Rules marked with an asterisk (*) do not apply on Arcade servers and inside of No Collision Zones. Traffic laws and road signage must be obeyed. This means European road laws and signage must be followed in ETS2 and American road laws and signage must be followed in ATS. Failure to adhere to the respective road laws, and signage, and local lane closures represented by smart signs (see §2.7) may result in a punishment. Traffic lights and stop signs can be ignored if no other users are in the immediate area. Speeding, while allowed, is not recommended. Speeding can lead to accidents and can factor in a punishment decision. Baiting other players into accidents will not be tolerated and is punishable. Areas with 25+ players are considered highly populated.  
 
 **§2.1 - Hacking/Bug/Feature abusing - PERMANENT BAN**
 
@@ -125,19 +126,24 @@ Driving the incorrect way down a road. Overtaking or undertaking another player 
 
 **§2.5 - Reckless Driving***
 
-Driving in such a way that is considered unsafe and that puts other players in danger. This includes but is not limited to: driving backwards, ignoring traffic lights or road signage, speeding, racing other users (except in Tucson, Phoenix, and Södertälje (ProMods) racetracks). Driving outside of the map boundaries or in areas that are not covered by the mini map/GPS. Hidden roads which are intentionally part of the map are not included. You can use these roads. In ProMods, you can drive on unlocked roads or paths. Attempting to use desync lag or quick saves in order to cause damage to another user's vehicle. Using the ghost mode feature to go through traffic jams. 
+Driving in such a way that is considered unsafe and that puts other players in danger. This includes but is not limited to: driving backwards, ignoring traffic lights or road signage, speeding, speeding up to prevent overtakes, racing other users (except in Tucson, Phoenix, and Södertälje (ProMods) racetracks). Driving outside of the map boundaries or in areas that are not covered by the mini map/GPS. Hidden roads which are intentionally part of the map are not included. You can use these roads. In ProMods, you can drive on unlocked roads or paths. Attempting to use desync lag or quick saves in order to cause damage to another user's vehicle. Using the ghost mode feature to go through traffic jams. 
 
 **§2.6 - Inappropriate Convoy Management / Car Abuse***
 
 Convoys are expected to follow all TruckersMP rules without altering the normal traffic flow. Convoy pilots are not permitted to slow down, block, control traffic and act as a staff member or otherwise abuse the pilot scheme paint job. It's not permitted to organise a convoy in the following areas when highly populated: Kirkenes quarry (ProMods map), the Duisburg to Calais road, and in the cities of Calais and Duisburg. More than 5 players driving together is classed as a convoy.  
 
-**§2.7 - Event Servers**
+**§2.7 - Featured Zone & Event Servers**
 
-All rules apply to any event server unless approved temporary rules override for a certain event.
+A Featured Zone is an area with heightened staff presence altering local road conditions. Players must obey all instructions given by TruckersMP staff during these live operations and must respect all Smart Signs by following the [respective rules](https://truckersmp.com/knowledge-base/article/1091) for them.
 
-Event server requirements can be found [here](https://truckersmp.com/knowledge-base/article/671).
+- Players must not interfere with the operations planned by the TruckersMP team.
+- Players must not create their own "operations" or otherwise risk violating rule §2.6: "Inappropriate Convoy Management / Car Abuse".
+- Players must yield to all emergency/service vehicles where safe. The TruckersMP team may perform rolling road blocks, and pull over or request players to move out of the way for responding emergency vehicles during the management of operations.
 
-Temporary rules for events can be found [here](https://forum.truckersmp.com/index.php?/topic/14237-temporary-rules-valid-during-an-event-or-a-convoy/).
+Event servers are limited access temporary servers for special events. All rules apply to any event server unless approved temporary rules override for a certain event.
+
+- Event server requirements can be found [here](https://truckersmp.com/knowledge-base/article/671).
+- Temporary rules for events can be found [here](https://forum.truckersmp.com/index.php?/topic/14237-temporary-rules-valid-during-an-event-or-a-convoy/).
 
 **§2.8 - How bans are issued**
 
@@ -214,7 +220,7 @@ The Community Moderation Management reserve the right to apply more severe restr
 
 * **Truck with caravan** - Attaching the caravan to your truck.
 
-* **Headlights** - Headlights must always be on between the hours of ATS: 20:00 (8 PM) - 7:00 (7 AM) | ETS2: 20:00 (8 PM) - 06:00 (6 AM).
+* **Headlights** - Headlights must always be on between the hours of ATS: 18:00 (6 PM) - 09:00 (9 AM) | ETS2: 17:00 (5 PM) - 09:00 (9 AM).
 
 * **Unsupported accessories** - Using police accessories or any other unsupported items (Special Cargo DLC trailers for ETS2 and ATS).
 
@@ -225,7 +231,7 @@ The Community Moderation Management reserve the right to apply more severe restr
    * Maximum amount of accessories per trailer: 50
    * Maximum amount of hookups per accessory: 25
 
-* **Too many trailers** - Using a modified trailer combination with more than 3 parts for ETS2 or 5 parts for ATS will cause the server to kick you, regardless of location on the map.
+* **Too many trailers** - Using a modified trailer combination with more than 3 parts for ETS2 or 6 parts for ATS will cause the server to kick you, regardless of location on the map.
 
 * **Traffic restrictions** - Using double or triple trailers close to the Kirkenes quarry (ProMods map).  
 
