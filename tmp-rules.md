@@ -1,8 +1,12 @@
 ## Latest Changes
 
 **You can view the TruckersMP rules in other languages [here](https://truckersmp.com/kb/704)!**  
+**Detailed changelogs of the official rules can be accessed [here](https://truckersmp.com/kb/1303).**
 
-- 2022/11/24 - Updated §1.4, §2, §2.5, §2.7, and §5.1. ([check the changelog here](https://truckersmp.com/kb/1303))  
+- 2023/03/08 - Updated §5.1: adjusted anti-inactivity system
+- 2023/02/26 - Updated §1.2 and §2.1
+- 2023/01/30 - Updated [Terms of Service](https://truckersmp.com/terms) and [Privacy Policy](https://truckersmp.com/policy). Changelogs are available at the bottom of the respective policy pages  
+- 2022/11/24 - Updated §1.4, §2, §2.5, §2.7, and §5.1.  
 - 2022/05/04 - Reworked §2.2. Updated §1.4, §2.4, §2.8, §5.3.
 - 2021/07/30 - Updated [privacy policy](https://truckersmp.com/policy). Reworked rule §2, §2.6. Added double/triple trailer restrictions to §5.1. Reworded rule §2.4, §5.2, §5.3.
 - 2021/05/28 - Reworked all rules under §1. Added rule §4.5. Updated §2 §2.6, §2.8, §3, §4, §4.1, §4.2, §4.3, §5.1, §5.4, §5.7.
@@ -43,9 +47,9 @@ This rule applies to, but is not limited to, the CB Radio, the in-game chat, you
 
 You are responsible for your account(s). When rules are being broken, we will punish the account that broke them, no matter who was playing at that time. You are also responsible for the equipment used while driving on TruckersMP. This includes but is not limited to the safe use and maintenance of keyboards, game controllers, mice, steering wheels and similar.
 
-**§1.2 - Ban Evading - PERMANENT BAN**
+**§1.2 - Ban Evading - 90 days**
 
-Creating or using another account to get around a temporary or permanent ban. Attempting to remove ban evidence to get out of a ban. If the evidence points that you have evaded a ban, staff reserve the right to ban you again without notification. Evidence for ban evading cannot be disclosed due to it containing confidential server-side information.  
+Creating or using another account to get around a temporary ban. Evading a permanent ban will result in a permanent ban on all accounts. Attempting to remove ban evidence to get out of a ban. If the evidence points that you have evaded a ban, staff reserve the right to ban you again without notification. Evidence for ban evading cannot be disclosed due to it containing confidential server-side information.  
 
 **§1.3 - Spamming or Abuse**
 
@@ -55,7 +59,7 @@ Using any of the report or communication systems provided on TruckersMP services
 
 Any breaches of the below rules might result in a 30 day ban from our report system for a first offense, and a permanent ban for a second offense, and will lead to your report getting rejected.  
 
-- Reports must be filed no later than 14 days after an incident has occurred.
+- Reports must be filed no later than seven days after an incident has occurred.
 - The evidence you provide us must be available for the length of the ban applied, plus thirty days. Evidence for permanent bans must be available forever.
 - Reports for reasons mentioned under §2 must have video evidence. Evidence exceeding 2 minutes in length must have a timestamp attached in the report.  
 - Evidence submitted in the report should not be modified (cropped, retouched or blurred) in a way that affects the context of the violation. Videos can only be cropped time-wise.
@@ -110,7 +114,7 @@ Rules marked with an asterisk (*) do not apply on Arcade servers and inside of N
 
 **§2.1 - Hacking/Bug/Feature abusing - PERMANENT BAN**
 
-Using any kind of tool to change gameplay, including but not limited to using the in-game console, trainers or cheat engine in order to bypass the speed limiter, to jump hack, no collision hack or anything similar. Bypassing the server-sided auto kick system via save editing. Misusing features such as ghost mode to cause damage to others while connecting to the servers.
+Using any kind of tool to change gameplay, including but not limited to using the in-game console, trainers or cheat engine in order to bypass the speed limiter, to jump hack, no collision hack or anything similar. Bypassing the server-sided auto kick system. Misusing features such as ghost mode to cause damage to others while connecting to the servers.
 
 **§2.2 - Collisions***
 
@@ -122,11 +126,11 @@ Restricting a user's travel path, blocking entrances to highways or other entry 
 
 **§2.4 - Incorrect Way / Inappropriate Overtaking***
 
-Driving the incorrect way down a road. Overtaking or undertaking another player in an area of extremely low FPS and/or in highly populated areas and/or resulting in an accident or the endangerment of other players. This also includes overtaking or undertaking on any one-lane in each direction road where there is excessive traffic such as a traffic jam.  
+Driving the incorrect way down a road. Overtaking or undertaking another player in highly populated areas and/or resulting in an accident or the endangerment of other players. This also includes overtaking or undertaking on any one-lane in each direction road where there is excessive traffic such as a traffic jam.  
 
 **§2.5 - Reckless Driving***
 
-Driving in such a way that is considered unsafe and that puts other players in danger. This includes but is not limited to: driving backwards, ignoring traffic lights or road signage, speeding, speeding up to prevent overtakes, racing other users (except in Tucson, Phoenix, and Södertälje (ProMods) racetracks). Driving outside of the map boundaries or in areas that are not covered by the mini map/GPS. Hidden roads which are intentionally part of the map are not included. You can use these roads. In ProMods, you can drive on unlocked roads or paths. Attempting to use desync lag or quick saves in order to cause damage to another user's vehicle. Using the ghost mode feature to go through traffic jams. 
+Driving in a way that is considered unsafe or putting other players in danger. This includes but is not limited to: driving backwards, ignoring traffic lights or road signage, speeding, speeding up to prevent overtakes, racing other users (exception made for in-game racetracks, dragstrips or testing grounds). Driving outside of the map boundaries or in areas that are not covered by the mini map/GPS. Hidden roads which are intentionally part of the map are not included. You can use these roads. In ProMods, you can drive on unlocked roads or paths. Attempting to use desync lag or quick saves in order to cause damage to another user's vehicle. Using the ghost mode feature to go through traffic jams. 
 
 **§2.6 - Inappropriate Convoy Management / Car Abuse***
 
@@ -160,7 +164,7 @@ If the Game Moderation Management thinks that a user joins TruckersMP with the s
 ---
 ## §3 - Save Editing
 
-Causing extreme lag or game crashes by save editing is not permitted. Extreme lag will not occur from duplicate parts unless the amount is truly excessive. If you save edit to create a very long trailer combination but cannot safely handle it, you are liable to be banned for reckless driving and/or blocking and it is recommended that you remove the particular modification(s). If the Game Moderation Management thinks that your modification is not fit for our servers or negatively impacts other people, you are liable to be banned until the modification has been removed.
+Causing extreme lag or game crashes by save editing is not permitted. Extreme lag will not occur from duplicate parts unless the amount is truly excessive. Using truck parts on cars or buses. If you save edit to create a very long trailer combination but cannot safely handle it, you are liable to be banned for reckless driving and/or blocking and it is recommended that you remove the particular modification(s). If the Game Moderation Management thinks that your modification is not fit for our servers or negatively impacts other people, you are liable to be banned.
 
  ---
 ## §4 - Forum only rules
@@ -212,15 +216,15 @@ The Community Moderation Management reserve the right to apply more severe restr
 
 **§5.1 - Server Auto Kicks**  
 
-* **Ping** -  If your ping is over 600ms to the server, you will be disconnected from the server in order to avoid desync issues for others. This ping check is taken as an average.  
+* **Ping** - If your ping is over 600ms to the server, you will be disconnected from the server in order to avoid desync issues for others. This ping check is taken as an average.  
 
-* **Away from keyboard** - Being inactive for over 10 minutes.
+* **Inactivity** - You are automatically kicked for inactivity after 30 minutes when less than 90% of the server slots are being used, and after 10 minutes when more than 90% are being used; for Patrons (Master Trucker tier) the automated kick is disabled by default and set to 30 minutes when more than 90% of the server slots are being used.  
 
-* **Car with trailer** -  Attaching a trailer to your car (not including the caravan.)
+* **Car with trailer** - Attaching a trailer to your car (not including the caravan.)
 
 * **Truck with caravan** - Attaching the caravan to your truck.
 
-* **Headlights** - Headlights must always be on between the hours of ATS: 18:00 (6 PM) - 09:00 (9 AM) | ETS2: 17:00 (5 PM) - 09:00 (9 AM).
+* **Headlights** - Headlights must always be on between the hours of ATS: 20:00 (8 PM) - 07:00 (7 AM) | ETS2: 20:00 (8 PM) - 06:00 (6 AM).
 
 * **Unsupported accessories** - Using police accessories or any other unsupported items (Special Cargo DLC trailers for ETS2 and ATS).
 
@@ -238,6 +242,8 @@ The Community Moderation Management reserve the right to apply more severe restr
 * **Negative cargo mass** - Using a trailer with a mass lower than 0.
 
 * **Mixing vehicle items** - Using car parts on a truck, truck parts on a trailer or car parts on a trailer, and vice versa for each case.
+
+* **Ban Evading** - Joining the servers with an account when another account belonging to you is currently banned.
 
 **§5.2 - Staff and TruckersMP**
 
