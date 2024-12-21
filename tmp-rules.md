@@ -3,6 +3,12 @@
 **You can view the TruckersMP rules in other languages [here](https://truckersmp.com/kb/704)!**  
 **Detailed changelogs of the official rules can be accessed [here](https://truckersmp.com/kb/1303).**
 
+- 2024/12/18 - Updated [privacy policy](https://truckersmp.com/policy), the changelog is available at the bottom of the privacy policy.  
+- 2024/11/01 - Updated rules §1.1, §1.4, §2, §2.3, §2.6, §2.7, and §3  
+- 2024/07/22 - Updated [privacy policy](https://truckersmp.com/policy), the changelog is available at the bottom of the privacy policy.  
+- 2023/12/19 - Updated rule §3  
+- 2023/12/08 - Updated rules §1.4, §2.1, §3, §5.1, and §5.3  
+- 2023/08/30 - Updated rules §1.4, §2.4, §2.5, §3 and §5.1  
 - 2023/03/08 - Updated §5.1: adjusted anti-inactivity system
 - 2023/02/26 - Updated §1.2 and §2.1
 - 2023/01/30 - Updated [Terms of Service](https://truckersmp.com/terms) and [Privacy Policy](https://truckersmp.com/policy). Changelogs are available at the bottom of the respective policy pages  
@@ -43,9 +49,12 @@
 
 This rule applies to, but is not limited to, the CB Radio, the in-game chat, your avatar, your licence/interior plates, your username, your in-game tag and any content you upload or embed on our website or forum such as images, GIFs or your forum signature.  
 
-**§1.1 - Account and Equipment**
+**§1.1 - Account, Equipment and Gameplay**
 
-You are responsible for your account(s). When rules are being broken, we will punish the account that broke them, no matter who was playing at that time. You are also responsible for the equipment used while driving on TruckersMP. This includes but is not limited to the safe use and maintenance of keyboards, game controllers, mice, steering wheels and similar.
+You are responsible for:  
+* Your account(s) - Failure to abide by the rules will hold the account owner responsible, no matter who was using it.
+* Equipment - Safe use and maintenance of keyboards, game controllers, mice, steering wheels or similar.
+* Gameplay - Weather settings, seasonal mods, braking and steering sensitivity and any other setting altering game physics.
 
 **§1.2 - Ban Evading - 90 days**
 
@@ -60,19 +69,18 @@ Using any of the report or communication systems provided on TruckersMP services
 Any breaches of the below rules might result in a 30 day ban from our report system for a first offense, and a permanent ban for a second offense, and will lead to your report getting rejected.  
 
 - Reports must be filed no later than seven days after an incident has occurred.
-- The evidence you provide us must be available for the length of the ban applied, plus thirty days. Evidence for permanent bans must be available forever.
-- Reports for reasons mentioned under §2 must have video evidence. Evidence exceeding 2 minutes in length must have a timestamp attached in the report.  
+- The evidence you provide us must be available for three months, except for reports for §2.1 and §3, which must remain available permanently.
+- The perpetrator's name must be readable in the evidence provided.
+- Reports for reasons mentioned under §2 must have video evidence. Evidence exceeding 2 minutes in length must have a timestamp attached in the report.
 - Evidence submitted in the report should not be modified (cropped, retouched or blurred) in a way that affects the context of the violation. Videos can only be cropped time-wise.
 - Evidence submitted may only be uploaded to websites that offer an on-site video player. Evidence that requires downloading files or authorization will not be accepted.
 - Evidence of inappropriate use of language, impersonation of any kind and inappropriate content, in the text chat must show the full chat open and unedited.
-- Evidence containing insults or otherwise offensive marks from the reporter won't be accepted and the reporter might be banned for inappropriate use of language, depending on the severity.
 - Ban Evading violations cannot be reported to the TruckersMP Team, such violations are handled through internal processes.
 - You can not report players with evidence that has not been taken in-game by yourself.
-- Spamming our report system with useless reports, reports using only continuous freecam (Cam 0) to record, or anything similar is not permitted.
-- Asking staff to handle your report with priority is not permitted.
-- It is not allowed to report the same user again if your report against them was declined. The complaint must be addressed to the Game Moderation Management through the [feedback system](https://truckersmp.com/feedback).
-- Reporting TruckersMP staff members must be done through the [feedback system](https://truckersmp.com/feedback).
-- For some basic guidelines on reporting, please refer to this [article](https://truckersmp.com/knowledge-base/article/10).
+- Evidence indicating the user is in freecam with the sole purpose of reporting players or anything similar.
+- Asking team members to handle your report with priority is not permitted.
+- It is not allowed to report the same user again if your report against them was declined. 
+- Complaints regarding TruckersMP team members or declined reports must be addressed to the Game Moderation Management through the feedback system.
 
 **§1.5 - Inappropriate use of language**
 - Light insults in chat such as "idiot" and "noob" are normally not punished, however, if abused they will be.
@@ -110,11 +118,11 @@ If, for any reason, there are ambiguous terms in the rules, or terms which could
  ---
 ## §2 - Game only rules
 
-Rules marked with an asterisk (*) do not apply on Arcade servers and inside of No Collision Zones. Traffic laws and road signage must be obeyed. This means European road laws and signage must be followed in ETS2 and American road laws and signage must be followed in ATS. Failure to adhere to the respective road laws, and signage, and local lane closures represented by smart signs (see §2.7) may result in a punishment. Traffic lights and stop signs can be ignored if no other users are in the immediate area. Speeding, while allowed, is not recommended. Speeding can lead to accidents and can factor in a punishment decision. Baiting other players into accidents will not be tolerated and is punishable. Areas with 25+ players are considered highly populated.  
+Rules marked with an asterisk (*) do not apply on Arcade servers and inside of No Collision Zones unless otherwise specified. Traffic laws, road signage and smart signs (§2.7) must be obeyed based on the countries/states respective legislation. Traffic lights and stop signs can be ignored if no other users are in the immediate area. Speeding, while allowed, is not recommended. Speeding can lead to accidents and can factor in a punishment decision. Baiting other players into accidents will not be tolerated and is punishable. Areas with 25+ players are considered highly populated.  
 
-**§2.1 - Hacking/Bug/Feature abusing - PERMANENT BAN**
+**§2.1 - Hacking/Bug/Feature abusing - 6 MONTHS - PERMANENT BAN**
 
-Using any kind of tool to change gameplay, including but not limited to using the in-game console, trainers or cheat engine in order to bypass the speed limiter, to jump hack, no collision hack or anything similar. Bypassing the server-sided auto kick system. Misusing features such as ghost mode to cause damage to others while connecting to the servers.
+Using any kind of tool to change gameplay, including but not limited to using the in-game console, trainers or cheat engine in order to bypass the speed limiter, to jump hack, no collision hack or anything similar. Bypassing the server-sided auto kick system. Misusing features such as ghost mode to cause damage to others while connecting to the servers. The TruckersMP Team reserves the right to apply any of the above-mentioned punishments on a case basis without justification on the decision.
 
 **§2.2 - Collisions***
 
@@ -122,7 +130,7 @@ Causing or attempting to cause a collision with another player intentionally or 
 
 **§2.3 - Blocking***
 
-Restricting a user's travel path, blocking entrances to highways or other entry points or anything similar. Failure to use the service feature (F7+Enter) when needed might result in a punishment.
+Restricting a user's travel path, blocking entry points or anything similar, misusing the Non-Collision Zone feature. Failure to use the "Tow to Service" feature (F7 ⭢ Enter ⭢ Option 1) when appropriate.
 
 **§2.4 - Incorrect Way / Inappropriate Overtaking***
 
@@ -134,11 +142,11 @@ Driving in a way that is considered unsafe or putting other players in danger. T
 
 **§2.6 - Inappropriate Convoy Management / Car Abuse***
 
-Convoys are expected to follow all TruckersMP rules without altering the normal traffic flow. Convoy pilots are not permitted to slow down, block, control traffic and act as a staff member or otherwise abuse the pilot scheme paint job. It's not permitted to organise a convoy in the following areas when highly populated: Kirkenes quarry (ProMods map), the Duisburg to Calais road, and in the cities of Calais and Duisburg. More than 5 players driving together is classed as a convoy.  
+Convoys are expected to follow all TruckersMP rules without altering the normal traffic flow. Convoy pilots are not permitted to slow down, block, control traffic and act as a team member or otherwise abuse the pilot scheme paint job. It's not permitted to organise a convoy in the following areas when highly populated: Kirkenes quarry (ProMods map), the Duisburg to Calais road, and in the cities of Calais and Duisburg. More than 5 players driving together is classed as a convoy.  
 
 **§2.7 - Featured Zone & Event Servers**
 
-A Featured Zone is an area with heightened staff presence altering local road conditions. Players must obey all instructions given by TruckersMP staff during these live operations and must respect all Smart Signs by following the [respective rules](https://truckersmp.com/knowledge-base/article/1091) for them.
+A Featured Zone is an area with heightened team presence altering local road conditions. Players must obey all instructions given by TruckersMP staff during these live operations and must respect all Smart Signs by following the [respective rules](https://truckersmp.com/knowledge-base/article/1091) for them.
 
 - Players must not interfere with the operations planned by the TruckersMP team.
 - Players must not create their own "operations" or otherwise risk violating rule §2.6: "Inappropriate Convoy Management / Car Abuse".
@@ -147,7 +155,7 @@ A Featured Zone is an area with heightened staff presence altering local road co
 Event servers are limited access temporary servers for special events. All rules apply to any event server unless approved temporary rules override for a certain event.
 
 - Event server requirements can be found [here](https://truckersmp.com/knowledge-base/article/671).
-- Temporary rules for events can be found [here](https://forum.truckersmp.com/index.php?/topic/14237-temporary-rules-valid-during-an-event-or-a-convoy/).
+- Temporary rules for events can be found on their respective event page [here](https://truckersmp.com/event-request).
 
 **§2.8 - How bans are issued**
 
@@ -164,7 +172,7 @@ If the Game Moderation Management thinks that a user joins TruckersMP with the s
 ---
 ## §3 - Save Editing
 
-Causing extreme lag or game crashes by save editing is not permitted. Extreme lag will not occur from duplicate parts unless the amount is truly excessive. Using truck parts on cars or buses. If you save edit to create a very long trailer combination but cannot safely handle it, you are liable to be banned for reckless driving and/or blocking and it is recommended that you remove the particular modification(s). If the Game Moderation Management thinks that your modification is not fit for our servers or negatively impacts other people, you are liable to be banned.
+Causing extreme lag or game crashes by save editing. If you save edit to create a very long trailer combination but cannot safely handle it, you are liable to be banned for reckless driving and/or blocking and it is recommended that you remove the particular modification(s). Having clipping or floating trailers and/or missing essential components (wheels, lights, etc.) is not allowed. If the Game Moderation Management thinks that your modification is not fit for our servers or negatively impacts other people, you are liable to be banned.
 
  ---
 ## §4 - Forum only rules
@@ -224,7 +232,7 @@ The Community Moderation Management reserve the right to apply more severe restr
 
 * **Truck with caravan** - Attaching the caravan to your truck.
 
-* **Headlights** - Headlights must always be on between the hours of ATS: 20:00 (8 PM) - 07:00 (7 AM) | ETS2: 20:00 (8 PM) - 06:00 (6 AM).
+* **Headlights** - Headlights must always be on between the hours of ATS: 19:00 (7 PM) - 08:00 (8 AM) | ETS2: 19:00 (7 PM) - 07:00 (7 AM).
 
 * **Unsupported accessories** - Using police accessories or any other unsupported items (Special Cargo DLC trailers for ETS2 and ATS).
 
@@ -241,7 +249,7 @@ The Community Moderation Management reserve the right to apply more severe restr
 
 * **Negative cargo mass** - Using a trailer with a mass lower than 0.
 
-* **Mixing vehicle items** - Using car parts on a truck, truck parts on a trailer or car parts on a trailer, and vice versa for each case.
+* **Mixing vehicle items** - Parts on a vehicle must match the type of vehicle; Truck parts for trucks, car parts for cars, and trailer parts for trailers, only. AI vehicle parts cannot be used on any vehicle.
 
 * **Ban Evading** - Joining the servers with an account when another account belonging to you is currently banned.
 
@@ -251,7 +259,10 @@ Staff reserve the right to kick or ban you from the TruckersMP servers at any po
 
 **§5.3 - Appealing and filing a complaint**
 
-If you have been banned, you have the right to appeal the ban via the [appeal system](https://truckersmp.com/appeals). If you feel that your ban appeal is not handled correctly or that you want to file a complaint against a staff member, use our feedback system. Prior to contacting feedback, your ban appeal must be Accepted, Modified or Declined. The [feedback system](https://truckersmp.com/feedback) is your last option. Any decision made by high ranked staff members will be final and cannot be appealed in another way. Any abuse of the feedback system can result in a ban from its use. Evidence for bans is required to be available for the duration of the ban plus thirty days. It is not possible to contact any member of the TruckersMP staff about bans that expired over fourteen days ago or a report that was handled over fourteen days ago. Complaints cannot be addressed privately with Staff members. You are required to use the appropriate system to fill in a complaint or appeal a punishment.  
+* If you have been banned, you have the right to appeal the ban via the [appeal system](https://truckersmp.com/appeals). Evidence of bans must be requested within the period of the ban being active through the appeal system. 
+* If you feel that your ban appeal is not handled correctly or that you want to file a complaint against a team member, use our [feedback system](https://truckersmp.com/feedback). Prior to contacting feedback, your ban appeal must be Accepted, Modified or Declined. 
+* It is not possible to contact the TruckersMP team regarding reports that were handled, or bans that expired, over fourteen days ago.
+* Any decision made by TruckersMP management will be final and cannot be appealed in another way. Any abuse of the feedback system can result in a ban from its use.
 
 **§5.4 - TruckersMP assets and logo**
 
